@@ -22,4 +22,4 @@ This is a simple image search project where user can search images by adding the
   `'Client-ID <Your Client Id>'`
 4. Run `npm start`
 
-./assets/pics-api.mp4
+https://github.com/SquaredR98/React-Redux/blob/main/assets/pics-api.mp4https://github.com/SquaredR98/React-Redux/blob/main/assets/pics-api.mp4
