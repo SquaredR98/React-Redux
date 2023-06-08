@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "name": "Estel Kunde",
+      "id": 1
+    },
+    {
+      "name": "Terence Hermiston",
+      "id": 2
+    },
+    {
+      "name": "Kira Rice",
+      "id": 3
+    },
+    {
+      "name": "Jailyn Langworth",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Refined Fresh Shoes",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Small Frozen Cheese",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Tasty Rubber Computer",
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "title": "Licensed Cotton Fish",
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "title": "Bespoke Plastic Fish",
+      "id": 5
+    },
+    {
+      "userId": 2,
+      "title": "Bespoke Rubber Table",
+      "id": 6
+    },
+    {
+      "userId": 2,
+      "title": "Awesome Granite Chicken",
+      "id": 7
+    },
+    {
+      "userId": 3,
+      "title": "Modern Plastic Gloves",
+      "id": 8
+    },
+    {
+      "userId": 3,
+      "title": "Awesome Metal Pants",
+      "id": 9
+    },
+    {
+      "userId": 3,
+      "title": "Sleek Rubber Fish",
+      "id": 10
+    },
+    {
+      "userId": 3,
+      "title": "Intelligent Fresh Computer",
+      "id": 11
+    }
+  ],
+  "photos": []
+}
